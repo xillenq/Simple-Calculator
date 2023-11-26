@@ -1,5 +1,5 @@
 # Website-Kalkulator
 
 
-# Želio bih pokazati jedan od mojih projekata kojeg sam uspješno uradio.
+# Želio bih pokazati jedan od mojih projekata koji sam uspješno uradio.
 # Ostavite star <3
